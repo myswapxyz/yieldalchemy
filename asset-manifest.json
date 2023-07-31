@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47b11351.css",
+    "main.js": "/static/js/main.4ad9a9f0.js",
+    "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
+    "static/media/background-image.png": "/static/media/background-image.bc24d721b269191d0fa0.png",
+    "static/media/august-gold.png": "/static/media/august-gold.d07fd2e6923c88c52a03.png",
+    "static/media/august-2.png": "/static/media/august-2.058243d2c2be2f678eb9.png",
+    "static/media/august-4.png": "/static/media/august-4.24a0802399078f582840.png",
+    "static/media/august-3.png": "/static/media/august-3.1b09948fcf1103a977e3.png",
+    "static/media/august-1.png": "/static/media/august-1.269ec0be9e0996f2187a.png",
+    "static/media/open-invest.png": "/static/media/open-invest.c23c978a596adc52c0d0.png",
+    "static/media/braavos-logo.svg": "/static/media/braavos-logo.7b0034c05090fec17d048335e3495485.svg",
+    "index.html": "/index.html",
+    "static/media/discord.svg": "/static/media/discord.b668192649ebbae13f9bf7cc1dadef66.svg",
+    "static/media/myswap-icon.svg": "/static/media/myswap-icon.288543f802ba24dfbb2656a4f2339956.svg",
+    "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg"
+  },
+  "entrypoints": [
+    "static/css/main.47b11351.css",
+    "static/js/main.4ad9a9f0.js"
+  ]
+}
