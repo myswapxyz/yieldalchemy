@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.42cf1b75.css",
-    "main.js": "/static/js/main.87174c1e.js",
+    "main.js": "/static/js/main.0bccf135.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/background-image.png": "/static/media/background-image.6752c7018eca62c3a553.png",
     "static/media/august-gold.png": "/static/media/august-gold.d07fd2e6923c88c52a03.png",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.42cf1b75.css",
-    "static/js/main.87174c1e.js"
+    "static/js/main.0bccf135.js"
   ]
 }
