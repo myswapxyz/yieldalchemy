@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.222721b7.css",
-    "main.js": "/static/js/main.43e830b2.js",
+    "main.js": "/static/js/main.e84c5caa.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/background-image.png": "/static/media/background-image.08c9439c0c9347017d25.png",
-    "static/media/august-gold.png": "/static/media/august-gold.d07fd2e6923c88c52a03.png",
-    "static/media/august-2.png": "/static/media/august-2.058243d2c2be2f678eb9.png",
-    "static/media/august-4.png": "/static/media/august-4.24a0802399078f582840.png",
-    "static/media/august-3.png": "/static/media/august-3.1b09948fcf1103a977e3.png",
-    "static/media/august-1.png": "/static/media/august-1.269ec0be9e0996f2187a.png",
+    "static/media/august-gold.png": "/static/media/august-gold.e96ce2257e1e41aa2702.png",
+    "static/media/august-2.png": "/static/media/august-2.21d735cbc8345530dc49.png",
+    "static/media/august-4.png": "/static/media/august-4.73d3161090fdd7be2fd2.png",
+    "static/media/august-3.png": "/static/media/august-3.9fa8be0ca746146633cc.png",
+    "static/media/august-1.png": "/static/media/august-1.b750cd81e656d65ae791.png",
     "static/media/open-invest.png": "/static/media/open-invest.c23c978a596adc52c0d0.png",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.7b0034c05090fec17d048335e3495485.svg",
     "index.html": "/index.html",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.222721b7.css",
-    "static/js/main.43e830b2.js"
+    "static/js/main.e84c5caa.js"
   ]
 }
