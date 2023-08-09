@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.222721b7.css",
-    "main.js": "/static/js/main.728be30b.js",
+    "main.css": "/static/css/main.d1a3cd4d.css",
+    "main.js": "/static/js/main.e80eeb00.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/background-image.png": "/static/media/background-image.08c9439c0c9347017d25.png",
     "static/media/august-gold.png": "/static/media/august-gold.e96ce2257e1e41aa2702.png",
@@ -17,7 +17,7 @@
     "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg"
   },
   "entrypoints": [
-    "static/css/main.222721b7.css",
-    "static/js/main.728be30b.js"
+    "static/css/main.d1a3cd4d.css",
+    "static/js/main.e80eeb00.js"
   ]
 }
